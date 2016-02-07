@@ -1,2 +1,2 @@
-# highlight
-A chrome extension to highlight text
+# blacklight
+A Chrome extension that makes your current active tab a digital blackout poetry canvas.
